@@ -1,6 +1,6 @@
-# Llama Tokenizer Demo
+# Llama Tokenizer
 
-A simple Python script to demonstrate tokenization using the Llama 3.3 70B model tokenizer.
+Tokenization demo using the Llama 3.3 70B model tokenizer.
 
 ## Setup
 
